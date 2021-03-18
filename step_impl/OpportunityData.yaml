@@ -1,0 +1,785 @@
+CO51 FREEDOM CA:
+  ACCOUNT ID: IMVESCOR RESTAURANT GROUP INC.
+  BILLED BASED ON ACTUAL EXECUTION: 'NO'
+  BUSINESS TYPE: Existing Business
+  CONTRACT DATE: 5/9/2022
+  EXECUTION END DATE: 5/9/2022
+  EXPECTED CLOSE DATE: Today
+  FREEDOM ENABLED: 'YES'
+  ILOC ASSET DUE DATE: Today
+  INSERT DATE START DATE: 5/9/2022
+  NAME: CO51 FREEDOM CA-1A7C3D
+  PROBABILITY: '75'
+  STAGE: Contract
+CO51 FREEDOM US:
+  ACCOUNT ID: JAMMIN JAVA CORP DBA MARLEY COFFEE
+  BILLED BASED ON ACTUAL EXECUTION: 'NO'
+  BUSINESS TYPE: Existing Business
+  CONTRACT DATE: 5/9/2022
+  EXECUTION END DATE: 5/9/2022
+  EXPECTED CLOSE DATE: Today
+  FREEDOM ENABLED: 'YES'
+  ILOC ASSET DUE DATE: Today
+  INSERT DATE START DATE: 5/9/2022
+  NAME: CO51 FREEDOM US-4CC931
+  PROBABILITY: '75'
+  STAGE: Contract
+CO51 FREEDOM US ILOC FIELDS:
+  ILoc Asset Due Date: '2022-05-09'
+  ILoc Category: NAM, FSI, ILOC, OPP, ACC, CONTACT, MERC, DG, SSD, SM, CO51, ARTWORK,
+    CIRCULATION, Market
+  NAME: CO51 FREEDOM US-4CC931
+CO51 FREEDOM US LINE ITEMS:
+  '% Of Redemption2': '100'
+  Applicable Partner1: Checkout51
+  Applicable Partner2: SavingStar
+  Applicable Partner3: SmartSource.com
+  Applicable Partner4: Prodege
+  Applicable Partner5: Checkout51
+  Applicable Partner6: SavingStar
+  Applicable Partner7: SmartSource.com
+  Applicable Partner8: Prodege
+  Charge Description1: Fee Per Clip
+  Charge Description2: Face Value Fee
+  Charge Description3: Fee Per Redemption
+  Charge Description4: Processing Fee
+  Charge Description5: Bonus Offer Fee
+  Charge Description6: Bonus Set up Fee
+  Charge Description7: Nudge Notification
+  Charge Description8: Monday email
+  Description1: FPC
+  Description2: FVF
+  Description3: FPR
+  Description4: Fee Per Clip
+  Description5: BOF
+  Description6: BSUF
+  Description7: NN
+  Description8: ME
+  Offer1: A
+  Offer2: B
+  Offer3: B
+  Offer4: C
+  Offer5: A
+  Offer6: B
+  Offer7: B
+  Offer8: C
+  Quantity1: '32'
+  Quantity2: '22'
+  Quantity3: '11'
+  Quantity4: '23'
+  Quantity5: '12'
+  Quantity6: '8'
+  Quantity7: '31'
+  Quantity8: '13'
+  Sales Price1: '100.22'
+  Sales Price2: '50.33'
+  Sales Price3: '22.33'
+  Sales Price4: '15.11'
+  Sales Price5: '10.22'
+  Sales Price6: '66.33'
+  Sales Price7: '12.00'
+  Sales Price8: '8.11'
+  Week End Date1: 05/09/2020
+  Week End Date2: 05/09/2020
+  Week End Date3: 05/09/2020
+  Week End Date4: 05/09/2020
+  Week End Date5: 05/09/2020
+  Week End Date6: 05/09/2020
+  Week End Date7: 05/09/2020
+  Week End Date8: 05/09/2020
+  Week Start Date1: 05/09/2020
+  Week Start Date2: 05/09/2020
+  Week Start Date3: 05/09/2020
+  Week Start Date4: 05/09/2020
+  Week Start Date5: 05/09/2020
+  Week Start Date6: 05/09/2020
+  Week Start Date7: 05/09/2020
+  Week Start Date8: 05/09/2020
+CO51 NON FREEDOM CA:
+  ACCOUNT ID: IMVESCOR RESTAURANT GROUP INC.
+  BILLED BASED ON ACTUAL EXECUTION: 'YES'
+  BUSINESS TYPE: Existing Business
+  CONTRACT DATE: 5/9/2022
+  EXECUTION END DATE: 5/9/2022
+  EXPECTED CLOSE DATE: Today
+  FREEDOM ENABLED: 'NO'
+  ILOC ASSET DUE DATE: Today
+  INSERT DATE START DATE: 5/9/2022
+  NAME: CO51 NON FREEDOM CA-C66A51
+  PROBABILITY: '75'
+  STAGE: Contract
+CO51 NON FREEDOM CA ILOC FIELDS:
+  ILoc Asset Due Date: '2022-05-09'
+  ILoc Category: NAM, FSI, ILOC, OPP, ACC, CONTACT, MERC, DG, SSD, SM, CO51, ARTWORK,
+    CIRCULATION, Market
+  NAME: CO51 NON FREEDOM CA-C66A51
+CO51 NON FREEDOM CA LINE ITEMS:
+  Charge Description1: Editorial campaigns
+  Charge Description2: Face Value Fee
+  Charge Description3: Social sharing
+  Charge Description4: Processing Fee
+  Charge Description5: Bonus Offer Fee
+  Charge Description6: Bonus Set up Fee
+  Charge Description7: Nudge Notification
+  Charge Description8: Monday email
+  Description1: EC
+  Description2: FVF
+  Description3: FPR
+  Description4: PF
+  Description5: BOF
+  Description6: BSUF
+  Description7: NN
+  Description8: ME
+  Offer1: A
+  Offer2: B
+  Offer3: B
+  Offer4: C
+  Offer5: A
+  Offer6: B
+  Offer7: B
+  Offer8: C
+  Quantity1: '32'
+  Quantity2: '22'
+  Quantity3: '11'
+  Quantity4: '23'
+  Quantity5: '12'
+  Quantity6: '8'
+  Quantity7: '31'
+  Quantity8: '13'
+  Sales Price1: '100.22'
+  Sales Price2: '50.33'
+  Sales Price3: '22.33'
+  Sales Price4: '15.11'
+  Sales Price5: '10.22'
+  Sales Price6: '66.33'
+  Sales Price7: '12.00'
+  Sales Price8: '8.11'
+  Week End Date1: 05/09/2020
+  Week End Date2: 05/09/2020
+  Week End Date3: 05/09/2020
+  Week End Date4: 05/09/2020
+  Week End Date5: 05/09/2020
+  Week End Date6: 05/09/2020
+  Week End Date7: 05/09/2020
+  Week End Date8: 05/09/2020
+  Week Start Date1: 05/09/2020
+  Week Start Date2: 05/09/2020
+  Week Start Date3: 05/09/2020
+  Week Start Date4: 05/09/2020
+  Week Start Date5: 05/09/2020
+  Week Start Date6: 05/09/2020
+  Week Start Date7: 05/09/2020
+  Week Start Date8: 05/09/2020
+CO51 NON FREEDOM US:
+  ACCOUNT ID: JAMMIN JAVA CORP DBA MARLEY COFFEE
+  BILLED BASED ON ACTUAL EXECUTION: 'YES'
+  BUSINESS TYPE: Existing Business
+  CONTRACT DATE: 5/7/2022
+  EXECUTION END DATE: 5/7/2022
+  EXPECTED CLOSE DATE: Today
+  FREEDOM ENABLED: 'NO'
+  ILOC ASSET DUE DATE: Today
+  INSERT DATE START DATE: 5/7/2022
+  NAME: CO51 NON FREEDOM US-0C75C4
+  PROBABILITY: '75'
+  STAGE: Contract
+CO51 NON FREEDOM US ILOC FIELDS:
+  ILoc Asset Due Date: '2022-05-07'
+  ILoc Category: NAM, FSI, ILOC, OPP, ACC, CONTACT, MERC, DG, SSD, SM, CO51, ARTWORK,
+    CIRCULATION, Market
+  NAME: CO51 NON FREEDOM US-0C75C4
+CO51 NON FREEDOM US LINE ITEMS:
+  Charge Description1: Editorial campaigns
+  Charge Description2: Face Value Fee
+  Charge Description3: Social sharing
+  Charge Description4: Processing Fee
+  Charge Description5: Bonus Offer Fee
+  Charge Description6: Bonus Set up Fee
+  Charge Description7: Nudge Notification
+  Charge Description8: Monday email
+  Description1: EC
+  Description2: FVF
+  Description3: FPR
+  Description4: PF
+  Description5: BOF
+  Description6: BSUF
+  Description7: NN
+  Description8: ME
+  Offer1: A
+  Offer2: B
+  Offer3: B
+  Offer4: C
+  Offer5: A
+  Offer6: B
+  Offer7: B
+  Offer8: C
+  Quantity1: '32'
+  Quantity2: '22'
+  Quantity3: '11'
+  Quantity4: '23'
+  Quantity5: '12'
+  Quantity6: '8'
+  Quantity7: '31'
+  Quantity8: '13'
+  Sales Price1: '100.22'
+  Sales Price2: '50.33'
+  Sales Price3: '22.33'
+  Sales Price4: '15.11'
+  Sales Price5: '10.22'
+  Sales Price6: '66.33'
+  Sales Price7: '12.00'
+  Sales Price8: '8.11'
+  Week End Date1: 05/07/2020
+  Week End Date2: 05/07/2020
+  Week End Date3: 05/07/2020
+  Week End Date4: 05/07/2020
+  Week End Date5: 05/07/2020
+  Week End Date6: 05/07/2020
+  Week End Date7: 05/07/2020
+  Week End Date8: 05/07/2020
+  Week Start Date1: 05/07/2020
+  Week Start Date2: 05/07/2020
+  Week Start Date3: 05/07/2020
+  Week Start Date4: 05/07/2020
+  Week Start Date5: 05/07/2020
+  Week Start Date6: 05/07/2020
+  Week Start Date7: 05/07/2020
+  Week Start Date8: 05/07/2020
+DIGITAL CA:
+  ACCOUNT ID: IMVESCOR RESTAURANT GROUP INC.
+  ARTWORK DUE DATE: 5/9/2022
+  BILLED BASED ON ACTUAL EXECUTION: 'YES'
+  BUSINESS TYPE: Existing Business
+  CLIENT LIST DUE DATE: 5/9/2022
+  CONTRACT DATE: 5/9/2022
+  EXECUTION END DATE: 5/9/2022
+  EXPECTED CLOSE DATE: Today
+  INSERT DATE START DATE: 5/9/2022
+  NAME: DIGITAL CA-70AFC3
+  PROBABILITY: '75'
+  STAGE: Contract
+DIGITAL CA ILOC FIELDS:
+  Artwork Due Date: '2022-05-09'
+  Client List Due Date: '2022-05-09'
+  NAME: DIGITAL CA-70AFC3
+DIGITAL CA LINE ITEMS:
+  Charge Description1: CPM
+  Charge Description2: CPM
+  Charge Description3: Flat fee
+  Charge Description4: CPM
+  Charge Description5: Flat fee
+  Quantity1: 30
+  Quantity2: 24
+  Quantity3: 16
+  Quantity4: 56
+  Quantity5: 64
+  Sales Price1: 566.51
+  Sales Price2: 968.37
+  Sales Price3: 765.79
+  Sales Price4: 450.62
+  Sales Price5: 286.2
+DIGITAL US:
+  ACCOUNT ID: JAMMIN JAVA CORP DBA MARLEY COFFEE
+  ARTWORK DUE DATE: 5/9/2022
+  BILLED BASED ON ACTUAL EXECUTION: 'YES'
+  BUSINESS TYPE: Existing Business
+  CLIENT LIST DUE DATE: 5/9/2022
+  CONTRACT DATE: 5/9/2022
+  EXECUTION END DATE: 5/9/2022
+  EXPECTED CLOSE DATE: Today
+  INSERT DATE START DATE: 5/9/2022
+  NAME: DIGITAL US-C77EF1
+  PROBABILITY: '75'
+  STAGE: Contract
+DIGITAL US ILOC FIELDS:
+  Artwork Due Date: '2022-05-09'
+  Client List Due Date: '2022-05-09'
+  NAME: DIGITAL US-C77EF1
+DIGITAL US LINE ITEMS:
+  Charge Description1: Featured Package
+  Charge Description2: Survey
+  Charge Description3: Triggered Content
+  Charge Description4: CPM
+  Charge Description5: Triggered Content
+  Quantity1: 65
+  Quantity2: 20
+  Quantity3: 4
+  Quantity4: 68
+  Quantity5: 90
+  Sales Price1: 216.55
+  Sales Price2: 518.67
+  Sales Price3: 210.21
+  Sales Price4: 322.35
+  Sales Price5: 974.86
+FSI CA:
+  ACCOUNT ID: IMVESCOR RESTAURANT GROUP INC.
+  BUSINESS TYPE: Existing Business
+  EXPECTED CLOSE DATE: Today
+  EXPIRATION DATE: 5/10/2020
+  INSTORE CYCLE: 5/10/2020
+  NAME: FSI CA-13C288
+  PROBABILITY: '75'
+  PROJECTED AVERAGE CPM: 50
+  PROJECTED CIRCULATION (000): 100
+  STAGE: Contract
+FSI CA ILOC FIELDS:
+  ILOC Ad Description: ILOC Ad Description
+  ILOC Production Charges: '''[{"ChargeType":"P","Charges":2000,"Description":"DISK
+    HANDLING''s","Amount":1000,"CirculationQty":2}]'''
+  ILOC Total Program Fee: '8000'
+  ILoc Artwork Due Date: '2022-05-09'
+  ILoc Category: NAM, FSI, ILOC, OPP, ACC, CONTACT, MERC, DG, SSD, SM, CO51, ARTWORK,
+    CIRCULATION, Market
+  ILoc Circulation Charges: '''[{"ChargeType":"C","Charges":1000,"Description":"CIRCULATION
+    CHARGE''s","Amount":1,"CirculationQty":1000}]'''
+  ILoc Market List Due Date: '2022-05-09'
+  ILoc Other Charges: '''[{"ChargeType":"P","Charges":2000,"Description":"DISK HANDLING''s","Amount":1000,"CirculationQty":2}]'''
+  NAME: FSI CA-13C288
+  Status: Reserved-RS1
+FSI CA LINE ITEMS:
+  Charge Description1: SCRATCH OFF
+  Charge Description2: ELECTRONIC SELL SHEET
+  Charge Description3: 1000 ENGLISH SELL SHEETS
+  Charge Description4: PAGE PRINT CHARGE
+  Charge Description5: EXTENSIVE STRIP IN FEE
+  Quantity1: 44
+  Quantity2: 27
+  Quantity3: 71
+  Quantity4: 8
+  Quantity5: 13
+  Sales Price1: 910.27
+  Sales Price2: 288.7
+  Sales Price3: 143.05
+  Sales Price4: 792.32
+  Sales Price5: 584.52
+FSI US:
+  ACCOUNT ID: JAMMIN JAVA CORP DBA MARLEY COFFEE
+  BUSINESS TYPE: Existing Business
+  EXPECTED CLOSE DATE: Today
+  EXPIRATION DATE: 5/10/2020
+  INSTORE CYCLE: 5/10/2020
+  NAME: FSI US-4DD529
+  PROBABILITY: '75'
+  PROJECTED AVERAGE CPM: 60
+  PROJECTED CIRCULATION (000): 26
+  STAGE: Contract
+FSI US ILOC FIELDS:
+  ILOC Ad Description: ILOC Ad Description
+  ILOC Production Charges: '''[{"ChargeType":"P","Charges":2000,"Description":"DISK
+    HANDLING''s","Amount":1000,"CirculationQty":2}]'''
+  ILOC Total Program Fee: '8000'
+  ILoc Artwork Due Date: '2022-05-09'
+  ILoc Category: NAM, FSI, ILOC, OPP, ACC, CONTACT, MERC, DG, SSD, SM, CO51, ARTWORK,
+    CIRCULATION, Market
+  ILoc Circulation Charges: '''[{"ChargeType":"C","Charges":1000,"Description":"CIRCULATION
+    CHARGE''s","Amount":1,"CirculationQty":1000}]'''
+  ILoc Market List Due Date: '2022-05-09'
+  ILoc Other Charges: '''[{"ChargeType":"P","Charges":2000,"Description":"DISK HANDLING''s","Amount":1000,"CirculationQty":2}]'''
+  NAME: FSI US-4DD529
+  Status: Reserved-RS1
+FSI US LINE ITEMS:
+  Charge Description1: HAWAII SURCHARGE
+  Charge Description2: ELECTRONIC SELL SHEET
+  Charge Description3: BDI-CDI Admin FEE
+  Charge Description4: FILE HANDLING
+  Charge Description5: 4 COLOR FORM BREAK
+  Quantity1: 85
+  Quantity2: 43
+  Quantity3: 50
+  Quantity4: 72
+  Quantity5: 29
+  Sales Price1: 839.46
+  Sales Price2: 930.06
+  Sales Price3: 515.56
+  Sales Price4: 921.98
+  Sales Price5: 441.07
+FSI US REMNANT:
+  ACCOUNT ID: JAMMIN JAVA CORP DBA MARLEY COFFEE
+  BUSINESS TYPE: Existing Business
+  EXPECTED CLOSE DATE: Today
+  EXPIRATION DATE: 5/10/2020
+  INSTORE CYCLE: 5/10/2020
+  NAME: FSI US REMNANT-5BB38B
+  PROBABILITY: '75'
+  PROJECTED AVERAGE CPM: 20
+  PROJECTED CIRCULATION (000): 8
+  STAGE: Contract
+FSI US REMNANT ILOC FIELDS:
+  Add Remnant Guidelines: 'YES'
+  Billed based on Actual Execution: 'YES'
+  ILOC Ad Description: ILOC Ad Description
+  ILOC Remnant Estimated Cost: '8000'
+  ILOC Remnant Insert Date: '2022-05-09'
+  ILOC Total Remnant Charge Detail: (+-10)
+  ILoc Category: NAM, FSI, ILOC, OPP, ACC, CONTACT, MERC, DG, SSD, SM, CO51, ARTWORK,
+    CIRCULATION, Market
+  NAME: FSI US REMNANT-5BB38B
+FSI US REMNANT LINE ITEMS:
+  Charge Description1: INTERNAL 4 COLOR CHANGE
+  Charge Description2: LATE FEES
+  Charge Description3: 1500 SELL SHEETS
+  Charge Description4: KODAK PROOF
+  Charge Description5: IMPERFECT A/B SPLIT
+  Quantity1: 82
+  Quantity2: 73
+  Quantity3: 15
+  Quantity4: 52
+  Quantity5: 51
+  Sales Price1: 329.14
+  Sales Price2: 374.54
+  Sales Price3: 823.44
+  Sales Price4: 943.04
+  Sales Price5: 709.92
+INSTORE CA:
+  ACCOUNT ID: IMVESCOR RESTAURANT GROUP INC.
+  BUSINESS TYPE: Existing Business
+  EXPECTED CLOSE DATE: Today
+  EXPIRATION DATE: 5/9/2022
+  INSTORE CYCLE: '202007'
+  NAME: INSTORE CA-31069A
+  OPPORTUNITY TYPE: Category Rights
+  PROBABILITY: '75'
+  PROJECTED AVERAGE CPS(SPACE): 42
+  PROJECTED STORE COUNT: 40
+  STAGE: Contract
+INSTORE CA ILOC FIELDS:
+  ILoc Artwork Due Date: '2022-05-09'
+  ILoc Brand: 160C69C0 8376 4
+  ILoc Category: NAM, FSI, ILOC, OPP, ACC, CONTACT, MERC, DG, SSD, SM, CO51, ARTWORK,
+    CIRCULATION, Market
+  ILoc Geography: 94452ABF A24D 4
+  ILoc Program: 04672995 83DA 4
+  ILoc Store Count: '65'
+  ILoc Trade Class: NAM, FSI, ILOC, OPP, ACC, CONTACT, MERC, DG, SSD, SM, CO51, ARTWORK,
+    CIRCULATION, Market
+  NAME: INSTORE CA-31069A
+  Status: NAM, FSI, ILOC, OPP, ACC, CONTACT, MERC, DG, SSD, SM, CO51, ARTWORK, CIRCULATION,
+    Market
+INSTORE CA LINE ITEMS:
+  Charge Description1: Production - Variable
+  Charge Description2: PlusPrograms-Production fee
+  Charge Description3: Move Fee
+  Charge Description4: Premium Holdover Fee
+  Charge Description5: Snapshot Quick-Pix Fixed
+  Placement Number1: 20
+  Placement Number2: 56
+  Placement Number3: 20
+  Placement Number4: 14
+  Placement Number5: 80
+  Quantity1: 37
+  Quantity2: 46
+  Quantity3: 70
+  Quantity4: 3
+  Quantity5: 20
+  Sales Price1: 926.66
+  Sales Price2: 260.05
+  Sales Price3: 454.28
+  Sales Price4: 26.59
+  Sales Price5: 352.96
+INSTORE US:
+  ACCOUNT ID: JAMMIN JAVA CORP DBA MARLEY COFFEE
+  BUSINESS TYPE: Existing Business
+  EXPECTED CLOSE DATE: Today
+  EXPIRATION DATE: 5/9/2022
+  INSTORE CYCLE: '202007'
+  NAME: INSTORE US PS-10C841
+  OPPORTUNITY TYPE: Subscription
+  PROBABILITY: '75'
+  PROJECTED AVERAGE CPS(SPACE): 97
+  PROJECTED STORE COUNT: 51
+  STAGE: Contract
+INSTORE US ILOC FIELDS:
+  ILoc Artwork Due Date: '2022-05-09'
+  ILoc Brand: 34C3F67A E840 4
+  ILoc Category: NAM, FSI, ILOC, OPP, ACC, CONTACT, MERC, DG, SSD, SM, CO51, ARTWORK,
+    CIRCULATION, Market
+  ILoc Geography: 54DD7C48 86F4 4
+  ILoc Program: 4B6DBD14 02E0 4
+  ILoc Store Count: '49'
+  ILoc Trade Class: NAM, FSI, ILOC, OPP, ACC, CONTACT, MERC, DG, SSD, SM, CO51, ARTWORK,
+    CIRCULATION, Market
+  NAME: INSTORE US PS-10C841
+  Status: NAM, FSI, ILOC, OPP, ACC, CONTACT, MERC, DG, SSD, SM, CO51, ARTWORK, CIRCULATION,
+    Market
+INSTORE US LINE ITEMS:
+  Charge Description1: PlusPrograms-Production fee
+  Charge Description2: Fuel Surcharge
+  Charge Description3: Testing Charges
+  Charge Description4: PlusPrograms-Warehouse fee
+  Charge Description5: Move Fee
+  Placement Number1: 10
+  Placement Number2: 60
+  Placement Number3: 66
+  Placement Number4: 52
+  Placement Number5: 47
+  Quantity1: 99
+  Quantity2: 53
+  Quantity3: 45
+  Quantity4: 62
+  Quantity5: 52
+  Sales Price1: 425.87
+  Sales Price2: 946.85
+  Sales Price3: 339.84
+  Sales Price4: 112.72
+  Sales Price5: 529.02
+MERCHANDISING CA:
+  ACCOUNT ID: IMVESCOR RESTAURANT GROUP INC.
+  BILLED BASED ON ACTUAL EXECUTION: 'NO'
+  BUSINESS TYPE: Existing Business
+  CONTRACT DATE: 5/9/2022
+  EXECUTION END DATE: 5/9/2022
+  EXPECTED CLOSE DATE: Today
+  ILOC ARTWORK DUE DATE: 5/9/2022
+  ILOC MATERIAL DUE DATE: 5/9/2022
+  ILOC PROGRAM DOCUMENT DUE DATE: 5/9/2022
+  ILOC SIGNED LOC/STORE LIST DUE DATE: 5/9/2022
+  IMAGE REQUEST DEATAILS: Subset List
+  IMAGE SUBSET LIST COUNT: 63
+  INSERT DATE START DATE: 5/9/2022
+  JOB DESCRIPTION/COMMENTS: INSTALLATION, MAINTENANACE, OFFERS, FITTING
+  MATERIAL DUE TO: Other Vendor
+  NAME: MERCHANDISING CA-DBB967
+  NETWORK RETAILER LIST: AIRTEL, IDEA, JIO, VODAFONE, TATA DOCOMO
+  OPPORTUNITY TYPE: Subscription
+  POS MATERIAL DISPOSITION: Discard After Project
+  POS MATERIALS PRODUCED: NMCIS
+  PROBABILITY: '75'
+  STAGE: Contract
+MERCHANDISING CA ILOC FIELDS:
+  NAME: MERCHANDISING CA-DBB967
+  Status: Reserved-RS1
+MERCHANDISING CA LINE ITEMS:
+  Charge Description1: In Network Up to 15 Min
+  Charge Description2: In Network 16-30 Min
+  Charge Description3: Out of Network Up to 15 Min
+  Charge Description4: Out of Network 46-60 Min
+  Charge Description5: In Network 16-30 Min
+  Quantity Per Store1: 6
+  Quantity Per Store2: 30
+  Quantity Per Store3: 18
+  Quantity Per Store4: 92
+  Quantity Per Store5: 10
+  Quantity1: 12
+  Quantity2: 1
+  Quantity3: 17
+  Quantity4: 73
+  Quantity5: 67
+  Sales Price1: 488.42
+  Sales Price2: 662.27
+  Sales Price3: 185.36
+  Sales Price4: 109.9
+  Sales Price5: 503.53
+MERCHANDISING US:
+  ACCOUNT ID: JAMMIN JAVA CORP DBA MARLEY COFFEE
+  BILLED BASED ON ACTUAL EXECUTION: 'NO'
+  BUSINESS TYPE: Existing Business
+  CONTRACT DATE: 5/9/2022
+  EXECUTION END DATE: 5/9/2022
+  EXPECTED CLOSE DATE: Today
+  ILOC ARTWORK DUE DATE: 5/9/2022
+  ILOC MATERIAL DUE DATE: 5/9/2022
+  ILOC PROGRAM DOCUMENT DUE DATE: 5/9/2022
+  ILOC SIGNED LOC/STORE LIST DUE DATE: 5/9/2022
+  IMAGE REQUEST DEATAILS: Subset List
+  IMAGE SUBSET LIST COUNT: 18
+  INSERT DATE START DATE: 5/9/2022
+  JOB DESCRIPTION/COMMENTS: INSTALLATION, MAINTENANACE, OFFERS, FITTING
+  MATERIAL DUE TO: Serigraph
+  NAME: MERCHANDISING US-4BBC28
+  NETWORK RETAILER LIST: AIRTEL, IDEA, JIO, VODAFONE, TATA DOCOMO
+  OPPORTUNITY TYPE: Subscription
+  POS MATERIAL DISPOSITION: Return to Client at Client's expense
+  POS MATERIALS PRODUCED: NMCIS
+  PROBABILITY: '75'
+  STAGE: Contract
+MERCHANDISING US ILOC FIELDS:
+  NAME: MERCHANDISING US-4BBC28
+  Status: Reserved-RS1
+MERCHANDISING US LINE ITEMS:
+  Charge Description1: Flat Fee
+  Charge Description2: Shipping/Fulfillment
+  Charge Description3: Shipping/Fulfillment
+  Charge Description4: Rate
+  Charge Description5: Rate
+  Quantity Per Store1: 57
+  Quantity Per Store2: 45
+  Quantity Per Store3: 15
+  Quantity Per Store4: 6
+  Quantity Per Store5: 16
+  Quantity1: 74
+  Quantity2: 23
+  Quantity3: 97
+  Quantity4: 41
+  Quantity5: 99
+  Sales Price1: 438.16
+  Sales Price2: 842.62
+  Sales Price3: 292.55
+  Sales Price4: 574.99
+  Sales Price5: 697.51
+PRODUCT NAME: SS Inside Media Only
+SMARTSOURCE DIRECT CA:
+  ACCOUNT ID: IMVESCOR RESTAURANT GROUP INC.
+  BILLED BASED ON ACTUAL EXECUTION: 'YES'
+  BUSINESS TYPE: Existing Business
+  CONTRACT DATE: 5/9/2022
+  EXPECTED CLOSE DATE: Today
+  ILOC ARTWORK DUE DATE: 5/9/2022
+  ILOC CREATIVE DUE DATE: 5/9/2022
+  ILOC FORMAT: ILOC FORMAT
+  ILOC SAMPLE DUE DATE: 5/9/2022
+  ILOC TARGETING: ILOC TARGETING
+  INSERT DATE START DATE: 5/9/2022
+  NAME: SMARTSOURCE DIRECT CA-C617CC
+  PROBABILITY: '75'
+  STAGE: Contract
+SMARTSOURCE DIRECT CA ILOC FIELDS:
+  ILoc Artwork Due Date: '2022-05-09'
+  ILoc Category: NAM, FSI, ILOC, OPP, ACC, CONTACT, MERC, DG, SSD, SM, CO51, ARTWORK,
+    CIRCULATION, Market
+  ILoc Creative Due Date: '2022-05-09'
+  ILoc Format: 34A135B6 E4CA 491A 8
+  ILoc Sample Due Date: '2022-05-09'
+  ILoc Targeting: 7321D37E 2FF6 4
+  NAME: SMARTSOURCE DIRECT CA-C617CC
+SMARTSOURCE DIRECT CA LINE ITEMS:
+  Charge Description1: Creative Build
+  Charge Description10: Production
+  Charge Description11: Creative Build
+  Charge Description12: Creative Build
+  Charge Description13: Copywriting
+  Charge Description14: Data
+  Charge Description15: Creative Build
+  Charge Description2: Copywriting
+  Charge Description3: Production
+  Charge Description4: Postage
+  Charge Description5: Postage
+  Charge Description6: Research
+  Charge Description7: Creative Build
+  Charge Description8: Research
+  Charge Description9: Postage
+  Quantity1: 81
+  Quantity10: 43
+  Quantity11: 47
+  Quantity12: 18
+  Quantity13: 79
+  Quantity14: 70
+  Quantity15: 58
+  Quantity2: 74
+  Quantity3: 58
+  Quantity4: 24
+  Quantity5: 89
+  Quantity6: 6
+  Quantity7: 27
+  Quantity8: 49
+  Quantity9: 83
+  Sales Price1: 305.76
+  Sales Price10: 101.21
+  Sales Price11: 297.04
+  Sales Price12: 279.61
+  Sales Price13: 776.07
+  Sales Price14: 127.26
+  Sales Price15: 908.81
+  Sales Price2: 865.27
+  Sales Price3: 325.31
+  Sales Price4: 33.91
+  Sales Price5: 881.6
+  Sales Price6: 559.2
+  Sales Price7: 732.73
+  Sales Price8: 561.35
+  Sales Price9: 389.81
+SMARTSOURCE DIRECT US:
+  ACCOUNT ID: JAMMIN JAVA CORP DBA MARLEY COFFEE
+  BILLED BASED ON ACTUAL EXECUTION: 'YES'
+  BUSINESS TYPE: Existing Business
+  CONTRACT DATE: 5/9/2022
+  EXPECTED CLOSE DATE: Today
+  INSERT DATE START DATE: 5/9/2022
+  NAME: SMARTSOURCE DIRECT US-3E1ABF
+  PROBABILITY: '75'
+  STAGE: Contract
+SMARTSOURCE DIRECT US ILOC FIELDS:
+  ILoc Artwork Due Date: '2022-05-09'
+  ILoc Category: 3F164074, 7DEF, 4A40, BD97, 070F6B940051
+  ILoc Creative Due Date: '2022-05-09'
+  ILoc Format: D78A9080 E4E8 4A78 A
+  ILoc Sample Due Date: '2022-05-09'
+  ILoc Targeting: E6324DC7 806C 4
+  NAME: SMARTSOURCE DIRECT US-3E1ABF
+SMARTSOURCE DIRECT US LINE ITEMS:
+  Charge Description1: Production
+  Charge Description2: Research
+  Charge Description3: Research
+  Charge Description4: Production
+  Charge Description5: Postage
+  Quantity1: 57
+  Quantity2: 56
+  Quantity3: 70
+  Quantity4: 71
+  Quantity5: 50
+  Sales Price1: 217.63
+  Sales Price2: 552.84
+  Sales Price3: 273.14
+  Sales Price4: 417.57
+  Sales Price5: 487.82
+SSMG CA:
+  ACCOUNT ID: IMVESCOR RESTAURANT GROUP INC.
+  BILLED BASED ON ACTUAL EXECUTION: 'YES'
+  BUSINESS TYPE: Existing Business
+  CONTRACT DATE: 5/9/2022
+  EXPECTED CLOSE DATE: Today
+  EXPIRATION DATE: 5/9/2022
+  INSERT DATE START DATE: 5/9/2022
+  NAME: SSMG CA-B1F236
+  PROBABILITY: '75'
+  PROJECTED AVERAGE CPM: 27
+  PROJECTED CIRCULATION (000): 52
+  STAGE: Contract
+SSMG CA ILOC FIELDS:
+  ILoc Market List Due Date: '2022-05-09'
+  ILoc Material Due Date: '2022-05-09'
+  NAME: SSMG CA-B1F236
+SSMG CA LINE ITEMS:
+  Charge Description1: CANCELLATION CHARGE
+  Charge Description2: DIGITAL FILES
+  Charge Description3: REVERSE TAB
+  Charge Description4: CONTEST SEEDING
+  Charge Description5: TAB
+  Quantity1: 15
+  Quantity2: 95
+  Quantity3: 38
+  Quantity4: 30
+  Quantity5: 68
+  Sales Price1: 979.83
+  Sales Price2: 647.34
+  Sales Price3: 885.55
+  Sales Price4: 951.81
+  Sales Price5: 899.82
+SSMG US:
+  ACCOUNT ID: JAMMIN JAVA CORP DBA MARLEY COFFEE
+  BILLED BASED ON ACTUAL EXECUTION: 'YES'
+  BUSINESS TYPE: Existing Business
+  CONTRACT DATE: 5/9/2022
+  EXPECTED CLOSE DATE: Today
+  EXPIRATION DATE: 5/9/2022
+  INSERT DATE START DATE: 5/9/2022
+  NAME: SSMG US-636719
+  PROBABILITY: '75'
+  PROJECTED AVERAGE CPM: 12
+  PROJECTED CIRCULATION (000): 4
+  STAGE: Contract
+SSMG US LINE ITEMS:
+  Charge Description1: ALASKA SURCHARGE
+  Charge Description2: 4 COLOR PROCESSING
+  Charge Description3: 1000 ENGLISH SELL SHEETS
+  Charge Description4: 1000 SELL SHEETS
+  Charge Description5: INSIDE BACK COVER
+  Quantity1: 19
+  Quantity2: 21
+  Quantity3: 36
+  Quantity4: 19
+  Quantity5: 23
+  Sales Price1: 775.6
+  Sales Price2: 27.14
+  Sales Price3: 128.68
+  Sales Price4: 700.5
+  Sales Price5: 95.41

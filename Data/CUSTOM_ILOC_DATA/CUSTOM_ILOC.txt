@@ -1,0 +1,530 @@
+NEPTUNE TERMS AND CONDITIONS
+FOR DIGITAL PROGRAMS
+
+These terms and conditions form a part of the Letter of Commitment (“LOC”) 
+between Client and CB Neptune Holdings, LLC (“Neptune”) for the (i) SmartSource 
+Online Savings Network
+Program, (ii) SmartSource Coupon Technology Program, (iii)  Targeted Email 
+Program, (iv) SmartSource Display Program and/or (vi) SmartSource eFSI Program. 
+ Upon execution of the LOC,
+Client shall be deemed to have accepted these terms and conditions.  Subject to 
+the terms and conditions of the LOC, Neptune shall provide the services (the 
+“Services”) for the Coupon
+Technology Program,  SmartSource Online Savings Network Program, Targeted Email 
+Program, SmartSource Display Program or SmartSource eFSI Program as specified 
+in the LOC and herein
+(each      a “Program”).  Unless otherwise specified herein, these terms and 
+conditions shall apply to all Programs.
+
+1.  Services Description; Intellectual Property Rights.
+
+(a) For each SmartSource Online Savings Network Program only, (i) Neptune will 
+make available Client’s offer/coupon to users (“Consumers”) to be printed 
+and/or clipped to loyalty/retailer
+cards or other unique identifier (each, a “clip”) via direct to card technology 
+(“D2C”)  in retailers that accept D2C (as such retailer network may be updated 
+by Neptune upon notice to Client)
+through SmartSource.com, the third party websites comprising the SmartSource 
+Network and, as and if indicated on the LOC, email distributions and/or the 
+Client’s website and (ii) Client’s
+offer/coupon shall remain on the Network until the number of prints/clips 
+listed on the LOC are achieved or Client directs Neptune in writing to remove 
+Client’s offer/coupon from the Network,
+provided that Client shall not be entitled to any refund or reduction of fees 
+should Client so direct Neptune to remove Client’s offer/coupon from the 
+Network prior to the print/clip number being
+achieved.
+
+(b)  For each Coupon Technology Program only, (i) Neptune shall provide the 
+technology solution to enable Consumers to print/clip Client’s coupons or 
+offers made available through Client’s
+website, email blasts sent by Client and/or third party websites (including 
+without limitation through banner ads on such websites) designated by Client 
+that are not part of the SmartSource
+Savings network and (ii) Neptune shall provide such technology solution until 
+such time as the number of prints/clips listed on the LOC are achieved or 
+Client directs Neptune in writing to no
+longer provide the technology solution, provided that Client shall not be 
+entitled to any refund or reduction of fees should Client so direct Neptune to 
+no longer provide the technology solution
+prior to the print number being achieved.
+
+(c) For each Targeted Email Program, Neptune will provide Client’s 
+advertising/promotion for electronic mail distribution to email addresses 
+satisfying Client-designated criteria as contemplated
+by the LOC.  Client shall deliver to the location designated by Neptune, no 
+earlier than eight days prior to, and no later than thirty-six hours prior to, 
+each Program deployment date set forth in
+the applicable LOC, the email addresses of those individuals that have opted 
+out of receiving emails from Client which shall be current as of the date it is 
+delivered to the location designated by
+Neptune (“Client Suppression List”). Should Client fail to provide a Client 
+Suppression List a set forth herein within the dates set forth in the preceding 
+sentence, (i) Neptune shall have no
+obligation to place such Targeted Email Program and in the event of such a 
+cancellation by Neptune, Client shall remain responsible for the full amount of 
+the Program Fees and Other Fees, as
+well      as any other charges and expenses incurred by Neptune resulting from 
+the cancellation of such Targeted Email Program and (ii)  should Neptune place 
+such Targeted Email Program, then
+Client releases Neptune from any and all obligations and liabilities associated 
+with opt outs under the CAN-SPAM Act.
+
+(d) For each SmartSource Display Program, Neptune will display Client’s 
+advertising/promotion on Neptune’s website (www.smartsource.com) for the period 
+and in the location indicated on the
+applicable LOC.  Client shall not be entitled to any refund or reduction of 
+fees should Client direct Neptune to remove the SmartSource Display Program 
+prior to the expiration of the period
+indicated on the LOC.
+
+SmartSource Display Programs shall not contain coupons unless approved in 
+advance by Neptune.
+
+(f) For each SmartSource eFSI Program, Neptune will create a digital 
+multi-advertiser booklet containing Client Materials as well as advertising 
+and/or promotional materials furnished by other
+advertisers (each, an “eFSI Issue”), for digital publication. Each eFSI Issue 
+will run for a period of approximately one (1) week commencing on the 
+corresponding hard copy free standing insert
+(each an “FSI”) publication issue start date (“eFSI Issue Start Date”) and in 
+the digital publications set forth in the LOC.  If Client elects in an LOC to 
+publish their offer on SmartSource.com,
+such offer will be available nationally. Each SmartSource eFSI Program for 
+which there is a coupon in the corresponding FSI shall include either or both 
+of printable coupons or D2C couponing as
+set forth in the LOC. Neptune agrees that no coupon for a product directly 
+competitive with any of Client's couponed products (as listed on the applicable 
+LOC) will appear in the same eFSI Issue
+in the same markets as the promotion for Client’s couponed products (as listed 
+on the applicable LOC) appears, provided, however, the foregoing category 
+exclusivity may not apply when there
+are multiple issues of the hard copy free standing insert on the eFSI Issue 
+Start Date. “Directly competitive” shall be determined under the then current 
+guidelines utilized by Neptune as of the
+eFSI Issue Start Date unless otherwise mutually agreed to by Neptune and Client 
+in writing.
+
+(g) Client shall provide Neptune with the information necessary for Neptune to 
+create the Program including the advertising and/or promotion materials, 
+including but not limited to the coupons,
+offers, data, text, graphics, product UPC codes, production forms and other 
+materials provided by Client (together with all materials approved by Client 
+hereunder, collectively, the “Client
+Materials”).  With respect to Targeted Email Programs only, Client Materials 
+shall include the Client Suppression List.  At all times while this LOC is in 
+effect, Client shall provide to Neptune all
+necessary access to the Client Materials in order to fulfill its obligations 
+hereunder. Client acknowledges that Client Materials may not be available for 
+download for use with certain retailers based
+on retailer restrictions.
+
+(h) Neptune shall retain sole and exclusive title to, and all rights in, all 
+intellectual property related to the Services (except for Client Materials), 
+including, but not limited to, the Services, and any
+know-how related to the Services or Neptune products.
+
+2.  Client Materials.
+
+(a) Client shall be responsible for the submission of all Client Materials 
+(including all approvals of materials) and the signed LOC to Neptune on or 
+before the due dates (the “Due Dates”)
+specified in the applicable LOC. Client hereby licenses Neptune the right to 
+use, produce and reproduce all such Client Materials as contemplated hereby. 
+Neptune hereby disclaims all
+responsibility and liability for Client Materials. All Client Materials 
+submitted to Neptune must conform to Neptune’s specified formatting guidelines. 
+Failure by Client to timely deliver or approve
+the       Client Materials or the signed LOC on or prior to the Due Dates shall 
+render the LOC subject to cancellation by Neptune, subject to Section 4.  If 
+Neptune is able to deliver the Services
+notwithstanding late delivery of Client Materials, Client shall be liable for 
+all charges incurred by Neptune by reason of such late delivery (collectively, 
+the “Late Delivery Charges”).
+
+(b) Neptune reserves the right to (i) reject any Client Materials for any 
+reason, including, without limitation, subject matter, form, size, wording, 
+illustration, typography and content and to adjust
+Client-submitted product UPC codes based on distribution at participating 
+retailers; and (ii) modify the Client Materials to make them suitable for the 
+SmartSource eFSI Program (including, but
+not limited to, blocking out any machine readable bar coding).
+
+(c) In preparing the Client coupon/offer for distribution as contemplated by 
+Section 1(a), Neptune shall compile the Client Materials and submit to Client 
+the coupon/offer in the final form in which
+it will be presented to the Consumer.  Unless Client provides Neptune with its 
+objection to such final form materials in writing (which written approval may 
+be via email, fax or as provided in
+Section 12(k) below) within the lesser of (i) forty-five (45) days after 
+submission to Client or (ii) forty-eight (48) hours prior to the “go-live” date 
+for the applicable Program, such materials shall
+be deemed approved by Client for distribution as set forth herein.
+
+3.  Price and Payment.
+
+(a) For each Program, Client shall pay to Neptune the “Program Fee” set forth 
+in the LOC as follows: For Programs contracted sixty (60) days or more prior to 
+the Program start date, the
+Program Fee will be invoiced approximately sixty (60) days prior to the Program 
+start date and is due no later than thirty (30) days from the invoice date. For 
+Programs contracted less than sixty
+
+(60) days prior to the Program start date, the Program Fee will be invoiced 
+upon signature of the LOC and is due upon receipt of invoice.  Notwithstanding 
+the previous sentence, Client may also
+be liable for Late Delivery Charges and Other Fees, as applicable, in addition 
+to the Program Fee. “Other Fees” is defined as amounts charged for any 
+additional services performed in connection
+with a Program, as agreed by the parties in writing (e.g. research fees).  All 
+amounts due for each Program are exclusive of all applicable taxes.
+
+(b) Client shall be responsible for all federal, state, municipal and other 
+taxes imposed on all services performed by Neptune.
+
+(c) Client shall be responsible for payment of all amounts due to Neptune under 
+each LOC, whether such LOC is executed by Client directly or by an agency 
+acting as agent for Client (an
+"Agency"). Mailing of invoices to any Agency or acceptance of payment from an 
+Agency are solely for the convenience of Client, and Client shall remain liable 
+for its obligations to Neptune until
+such time as Neptune has been paid in full all amounts due to it under each 
+LOC.  Unless Client either includes the relevant purchase order number in the 
+space indicated in the signed LOC
+returned to Neptune or provides the purchase order number to Neptune in writing 
+no later than eight (8) weeks prior to the program start date, then Client 
+agrees to pay the full Program Fee
+without submitting to Neptune a purchase order in connection therewith.
+
+(d) Should Client fail to remit any amounts when due, Neptune shall have the 
+right to charge, and Client agrees to pay, interest on past due balances at the 
+rate of the lesser of one and one half
+percent (1.5%) per month or the maximum amount permitted by law. Client shall 
+be responsible for all Neptune’s costs of collection of past due amounts 
+(including without limitation reasonable
+attorneys’ fees).
+
+4.   LOCs; Cancellation.
+
+(a) Each LOC shall constitute a separate, distinct, and independent work 
+assignment, and shall have no effect upon other LOCs.  No conditions, printed 
+or otherwise, appearing on any LOCs, or
+instructions, submitted to Neptune, will be binding upon Neptune unless signed 
+by an authorized representative of Neptune. Delivery of an executed LOC shall 
+constitute a binding, irrevocable
+commitment of Client with respect to the Program placement contemplated by such 
+LOC.
+
+(b) If Client requests cancellation of an LOC or a decrease in the Programs 
+following delivery of an executed LOC or if an LOC is cancelled for any other 
+reason, the parties agree that, as a
+reasonable approximation of the damages suffered by Neptune in such event, 
+Client shall nevertheless be responsible for the full amount of the Program 
+Fees and Other Fees, as well as any other
+charges and expenses incurred by Neptune resulting from the cancellation.
+
+(c) Neptune may, by notice to Client, cancel any further obligation on 
+Neptune’s part under the LOC upon the happening of any one or more of the 
+following events or conditions: (i) failure by
+Client to perform or breach of the terms and conditions contained in the LOC, 
+including, without limitation, the failure by Client to pay any part of any 
+amounts due to Neptune promptly when
+due; or (ii) if Client shall make an assignment for the benefit of creditors, 
+commence any proceeding under bankruptcy, reorganization or insolvency laws or 
+be the subject of any such proceeding
+or generally fail to pay its debts as they become due.
+
+5.  Limitation of Liability.
+
+(a) Neptune shall not be liable for its failure or delay in the performance of 
+its obligations hereunder due to fire, flood, war, riot, accident, strikes, 
+acts of God, interruption of or delay in
+transportation, changes in laws or regulations, or any other causes beyond 
+Neptune’s reasonable control.
+
+(b) Notwithstanding anything herein or in the LOC to the contrary, (i) Client 
+shall be liable (and Neptune shall not be liable) for any errors and omissions 
+contained in any Client Materials or
+advertising materials provided by Client to Neptune or otherwise approved by 
+Client prior to posting or distribution; and (ii) Neptune shall not be liable 
+to the extent liability is not caused by
+Neptune.
+
+(c) Anything to the contrary herein notwithstanding, in no event shall 
+Neptune’s liability under or arising out of the LOC exceed the amount 
+previously paid to Neptune by Client in respect of the
+applicable Program under the LOC to which such liability relates or during 
+which such liability occurs. Neptune shall not, under any circumstances, be 
+responsible for any indirect, consequential,
+incidental or special damages, including, without limitation, loss of profits, 
+business interruption, loss of goodwill or punitive damages, regardless of 
+cause.  Neptune shall have no liability for
+errors or omissions by Neptune in cases where Client fails to provide Client 
+Materials by the applicable Due Dates, even if Neptune accepts Client Materials 
+for placement.
+
+6. Representations and Warranties. Client represents, warrants and covenants to 
+Neptune that: (a) Client owns or has the appropriate license to use and permit 
+Neptune to use any and all
+Client Materials provided to Neptune hereunder as contemplated by this LOC; (b) 
+no part of Client Materials contains or will contain any defamatory or libelous 
+matter, nor will Client Materials, in
+any way, infringe upon or violate any copyright, trademark, patent, right of 
+privacy or any other rights (statutory, proprietary or otherwise); (c) Client, 
+the Client Materials and the distribution of
+the Client Materials as contemplated by the LOC will not  violate the 
+provisions of any law, regulation, ordinance or ruling of any court, government 
+body or agency; (d) the Client Suppression
+List provided to Neptune shall be true, correct and complete, with all updates 
+thereto provided to Neptune in accordance with Section 1(c) hereof, with 
+respect to each Program deployment date
+set forth in the applicable LOC and for the duration of the Program; (e) Client 
+Materials do not and will not contain any coupon, tie-in or other promotion for 
+any products other than Client's
+products unless agreed to in writing in advance by Neptune; (f) it has full 
+power and authority to enter into and perform under each LOC; (g) each LOC (i) 
+has been and will be duly authorized,
+
+
+executed and delivered by Client, and (ii) constitutes and will constitute a 
+valid and binding obligation of Client; (h) performing under each LOC does not 
+and will not breach, conflict with or constitute a
+default under any other agreement, arrangement or instrument applicable to any 
+advertiser participating in such program, including Client; and (i) the person 
+executing and delivering each LOC is duly
+authorized to do so.
+
+7.  Data Collection Policy. To the extent that Client desires to drop cookies 
+on Consumer’s computers or use pixels, web beacons or other data collecting 
+technology (the "Data Collecting
+Technology") with respect to any Program hereunder to track impressions and 
+related data with respect thereto (collectively, the “Approved Purpose”), 
+Client shall obtain the prior written
+approval       of Neptune and provide all information requested by Neptune 
+regarding such Data Collecting Technology. If Neptune authorizes Client to use 
+Data Collecting Technology, Client agrees to
+use such Data Collecting Technology and all data collected there from solely 
+during the term of the Program and in the manner disclosed to Neptune and only 
+for the Approved Purpose. In no
+event shall such Data Collecting Technology or the data collected therefrom be 
+used by Client for the purpose of tracking or targeting Consumers when they 
+leave SmartSource.com, the third
+party websites comprising the SmartSource Network, or be combined with 
+information collected from other sources, except as otherwise expressly 
+authorized by Neptune. Client shall ensure that
+all such data will be deleted from its servers upon termination or expiration 
+of the relationship between Neptune and Client.
+
+8.  Ad Verification Services. Client must obtain Neptune’s prior written 
+approval to use ad verification services (e.g., DoubleVerify, AdSafe) (the “Ad 
+Verification Services”) in connection
+with any Program and of the types of tracking/crawling technologies being used 
+in connection with such Ad Verification Services. Neptune may approve or reject 
+in its sole discretion the use of
+Ad Verification Services with respect to a Program generally or the use of a 
+specific vendor. If Neptune approves the use of an Ad Verification Service, 
+Client will provide reports from the Ad
+Verification Service to Neptune twice per week to enable the parties to discuss 
+any issues raised by such reports on an immediate basis. Such reports should 
+identify specific delivery problems,
+associated sites and number of impressions. Neptune is under no obligation to 
+adjust its billing or provide make-goods or credits as a result of reports. 
+However, Neptune will consider in good
+faith any issues raised by such reports, including optimization issues and 
+other errors.
+
+9.  Indemnification for Third Party Claims.
+
+(a) Neptune shall indemnify, defend and hold Client and its affiliates and 
+their respective directors, shareholders, officers, employees and other 
+representatives harmless from and against any and
+all liabilities, losses, damages, costs and expenses (including without 
+limitation reasonable legal fees), which Client or such indemnitees shall incur 
+by reason of any claim, suit, proceeding,
+investigation or action by any governmental authority or other third party 
+against Client or such indemnitees based upon, or arising out of, any breach or 
+alleged breach by Neptune of any of its
+obligations under the LOC, except to the extent arising from the negligence or 
+intentional misconduct of Client. In case of the assertion of any third party 
+claim which may give rise to
+indemnification by Neptune hereunder, Client shall give prompt notice thereof 
+to Neptune. Neptune shall have the right to defend, at Neptune’s expense, any 
+such claims, suits or actions and to
+manage and control all such claims, suits or actions with legal counsel of its 
+own selection, except that Neptune shall not settle any such claim, suit or 
+action without the prior written consent of
+Client, such consent not to be unreasonably withheld.
+
+(b) Client shall indemnify, defend and hold Neptune and its affiliates and 
+their respective directors, shareholders, officers, employees and other 
+representatives harmless from and against any and
+all liabilities, losses, damages, costs and expenses (including without 
+limitation, reasonable legal fees) which Neptune or such indemnitees shall 
+incur by reason of any claim, suit, proceeding,
+investigation or action by any governmental authority or other third party 
+against or involving Neptune or such indemnitees based upon, or arising out of, 
+any breach or alleged breach of the LOC
+by       Client, any Client Materials, the manufacture, marketing, use, 
+distribution or purchase of Client's products, the redemption of coupons, the 
+Client Suppression List or the failure by Client to
+provide or update the Client Suppression List in accordance with the terms 
+contained herein, or the negligence or intentional misconduct of Client. In 
+case of the assertion of any third party claim
+which may give rise to indemnification by Client hereunder, Neptune shall give 
+prompt notice thereof to Client. Client shall have the right to defend, at 
+Client's expense, any such claims, suits or
+actions and to manage and control all such claims, suits or actions with legal 
+counsel of its own selection, except that Client shall not settle any such 
+claim, suit or action without the prior written
+consent of Neptune, such consent not to be unreasonably withheld.
+
+(c) Client shall bear exclusive responsibility for the entire cost of all 
+coupons redeemed, including, without limitation, the coupon value and all 
+applicable handling fees, and for compliance with all
+applicable laws and regulations relating to couponing and advertising 
+activities with respect to Client Materials, products and promotions.
+
+10.  Warranties and Waiver.  EXCEPT AS EXPRESSLY SET FORTH HEREIN, NEPTUNE 
+HEREBY DISCLAIMS ALL OTHER REPRESENTATIONS, WARRANTIES AND CONDITIONS 
+WHATSOEVER,
+EXPRESS OR IMPLIED, UNDER STATUTE OR ARISING OTHERWISE IN LAW FROM A COURSE OF 
+DEALING OR USAGE OF TRADE OR OTHERWISE, INCLUDING WITHOUT LIMITATION, ANY 
+IMPLIED
+REPRESENTATION, WARRANTY OR CONDITION OF MERCHANTABILITY, MERCHANTABLE QUALITY 
+OR FITNESS FOR A PARTICULAR PURPOSE OR USE.   Client acknowledges and agrees 
+that
+Neptune       shall have no responsibility or liability as a result of a 
+Consumer’s inability to print Client’s coupon/offer, including without 
+limitation as a result of firewalls, inability to successfully
+download the print at home software, printer failure or error, failure of 
+internet connection, etc. A waiver by either party hereto of any default or 
+breach by the other of any provision hereof shall
+not        be considered a waiver of any subsequent default or breach of the 
+same or of any other provisions hereof. The failure of either party to object 
+to or to take affirmative action with respect to
+any conduct of the other which is in violation of the LOC shall not be 
+construed as a waiver thereof, or of any future breach or subsequent wrongful 
+conduct.
+
+11.  Confidentiality.   Each party shall keep the terms of the LOC confidential 
+and shall not disclose any of such terms other than to such party’s respective 
+officers, directors, employees, affiliates,
+contractors or advisors with a need to know such terms in order for such party 
+to perform its obligations hereunder and who represent personally that they 
+agree to keep such terms confidential, except
+as required to be disclosed by law, regulation, proceeding, order or 
+investigation of any court or governmental authority or agency (provided that, 
+to the extent permissible, reasonable prior
+notice is provided to the other party prior to disclosure).  If a third party 
+(e.g., advertising agency or other promotional services company) is authorized 
+by Client to place Client’s programs, then
+Neptune and Client are authorized to provide to such agency or company only 
+such information (rates, schedules, terms and conditions) as reasonably 
+necessary to ensure successful placement
+of     that program and compliance with the LOC, provided such third party 
+agrees to keep such information confidential.
+
+12.  General.
+
+(a) Each LOC and the documents or agreements related thereto shall be governed 
+by, construed, and enforced in accordance with, the laws of the State of New 
+York, without regard to principles
+in respect of conflict of law. The parties agree that the state and federal 
+courts in the State of New York shall have exclusive jurisdiction with respect 
+to any claim arising out of, related to, or
+concerning the LOC and the documents and/or transactions related thereto, 
+unless waived by Neptune, in its sole and absolute discretion; provided, 
+however, that with regard to an action
+commenced by Neptune, Client further consents to the jurisdiction of the courts 
+of any jurisdiction in which Client has a presence, conducts business, or 
+maintains assets.  Client hereby waives
+and agrees not to assert any defense based on the alleged lack of jurisdiction 
+of such courts or that such courts are an inconvenient forum
+
+(b) Neither the LOC nor any LOC may be assigned or transferred by Client 
+without the prior written consent of Neptune, which consent shall not be 
+unreasonably withheld. The LOC and each LOC
+shall be binding upon, and inure to the benefit of, the parties hereto and 
+their respective successors and permitted assigns. No provision of any LOC 
+shall be nullified or affected in any manner as
+a result of any reorganization or by any change to any other form of business 
+organization of Client.  In the event of any merger, consolidation or sale of 
+all or substantially all of the assets of
+Client (each a “Transaction”), Client agrees that it will not conclude any 
+Transaction unless it enters into an agreement with the other party to such 
+Transaction (the “Transacting Party”) that
+fully assigns each LOC to the Transacting Party.  Client agrees that it will 
+provide Neptune with at least thirty (30) days prior written notice of any such 
+Transaction.
+
+(c) The LOCs constitute the entire agreement of the parties with respect to the 
+subject matter thereof and shall (i) supersede all prior agreements, 
+arrangements or understandings with respect
+thereto and (ii) may not be modified by the terms, conditions or provisions of 
+any purchase order or other documents or instructions submitted by Client. No 
+LOC may be changed or modified or
+any provisions therein waived except in a writing signed by both parties.
+
+(d) If any term or provision of the LOC shall, to any extent, be held to be 
+invalid or unenforceable, the remaining terms and provisions of such LOC shall 
+not be affected thereby and each term
+and provision of thereof shall be valid and enforced to the fullest extent 
+permitted by law provided that any such invalidity or unenforceability does not 
+negatively impact the nature of the
+relationship contemplated by the LOC.  Subject to the foregoing, if a court of 
+competent jurisdiction finds that any provision of an LOC is invalid or 
+unenforceable, but that by limiting such
+provision  it would become valid and enforceable, then such provision shall be 
+deemed written, construed, and enforced as limited. The LOC shall be construed 
+without regard to any presumption or
+other rule requiring construction against the party causing such documents to 
+be drafted.
+
+(e) No action of any kind arising out of or related to the performance of the 
+LOC or otherwise may be brought by either party more than twelve (12) months 
+after the same has accrued except an
+action for non-payment or indemnification which may be commenced within the 
+period provided by statute.
+
+(f) Any provision of the LOC which contemplates performance or observance 
+subsequent to expiration of the term or termination of such LOC (including 
+without limitation confidentiality, warranty and
+indemnification provisions) shall survive the expiration of the term or any 
+termination of such LOC and shall remain subject to these terms and conditions.
+
+(g) Client acknowledges and agrees that monetary damages would not be an 
+adequate remedy for the damage suffered by Neptune as a result of a breach of 
+any of the provisions of the LOC by Client
+and, accordingly, Client agrees that in addition to any other remedy which is 
+available to Neptune, Neptune shall be entitled, without bond and without the 
+necessity of showing actual monetary
+damages, to equitable relief, including without limitation, relief by way of 
+temporary or permanent injunction and to such other relief that any court of 
+competent jurisdiction may deem just and proper
+to  enforce the terms and provisions of such LOC.
+
+(h) Except as specifically provided herein, the rights and remedies herein 
+provided are cumulative and are not exclusive of any rights or remedies which 
+the parties may otherwise have at law or
+in equity.  Neptune shall have no duty to mitigate any damages.
+
+(i) Headings of sections or paragraphs are for convenience only.
+
+(j) The parties’ relationship is that of independent contractor. Neither the 
+LOC nor the transactions contemplated thereby are to be construed as creating a 
+partnership, joint venture, master-servant,
+principal-agent, employment, trust arrangement or other relationship for any 
+purpose whatsoever.  Neither party may be held for the acts either of omission 
+or commission of the other party, and
+neither     party is authorized to or has the power to obligate or bind the 
+other party by contract, agreement, warranty, representation or otherwise in 
+any manner whatsoever.
+
+(k) Except as specifically provided herein, all notices required or permitted 
+to be given pursuant hereto shall be given to the parties by hand delivery, 
+reputable overnight courier or certified mail,
+return receipt requested, postage prepaid, to the addresses of Neptune and the 
+Client and/or Agency set forth on the LOC.
+
+-END-
+

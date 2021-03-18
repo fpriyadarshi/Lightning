@@ -1,0 +1,234 @@
+CO51 FREEDOM CA:
+  Account ID: D
+  Billed based on Actual Execution: L
+  Buisness Type: J
+  Contract Date: I
+  Execution End Date: G
+  Expected close date: H
+  Freedom Enabled: E
+  ILoc Asset Due Date: K
+  Insert Date/ Start Date: F
+  Name: A
+  Probability: C
+  Stage: B
+CO51 FREEDOM US:
+  Account ID: D
+  Billed based on Actual Execution: L
+  Buisness Type: J
+  Contract Date: I
+  Execution End Date: G
+  Expected close date: H
+  Freedom Enabled: E
+  ILoc Asset Due Date: K
+  Insert Date/ Start Date: F
+  Name: A
+  Probability: C
+  Stage: B
+CO51 NON FREEDOM CA:
+  Account ID: D
+  Billed based on Actual Execution: L
+  Buisness Type: J
+  Contract Date: I
+  Execution End Date: G
+  Expected close date: H
+  Freedom Enabled: E
+  ILoc Asset Due Date: K
+  Insert Date/ Start Date: F
+  Name: A
+  Probability: C
+  Stage: B
+CO51 NON FREEDOM US:
+  Account ID: D
+  Billed based on Actual Execution: L
+  Buisness Type: J
+  Contract Date: I
+  Execution End Date: G
+  Expected close date: H
+  Freedom Enabled: E
+  ILoc Asset Due Date: K
+  Insert Date/ Start Date: F
+  Name: A
+  Probability: C
+  Stage: B
+DIGITAL CA:
+  Account ID: D
+  Artwork Due Date: I
+  Billed based on Actual Execution: L
+  Buisness Type: K
+  Client List Due Date: J
+  Contract Date: H
+  Execution End Date: F
+  Expected close date: G
+  Insert Date/ Start Date: E
+  Name: A
+  Probability: C
+  Stage: B
+DIGITAL US:
+  Account ID: D
+  Artwork Due Date: I
+  Billed based on Actual Execution: L
+  Buisness Type: K
+  Client List Due Date: J
+  Contract Date: H
+  Execution End Date: F
+  Expected close date: G
+  Insert Date/ Start Date: E
+  Name: A
+  Probability: C
+  Stage: B
+FSI CA:
+  Account ID: D
+  Buisness Type: H
+  Expected close date: F
+  Expiration Date: G
+  FSI - Insert Date/Start Date: E
+  Name: A
+  Probability: C
+  Projected Average CPM: I
+  Projected Circulation (000): J
+  Stage: B
+FSI US:
+  Account ID: D
+  Buisness Type: H
+  Expected close date: F
+  Expiration Date: G
+  FSI - Insert Date/Start Date: E
+  Name: A
+  Probability: C
+  Projected Average CPM: I
+  Projected Circulation (000): J
+  Stage: B
+FSI US REMNANT:
+  Account ID: D
+  Buisness Type: H
+  Expected close date: F
+  Expiration Date: G
+  FSI - Insert Date/Start Date: E
+  Name: A
+  Probability: C
+  Projected Average CPM: I
+  Projected Circulation (000): J
+  Stage: B
+INSTORE CA:
+  Account ID: D
+  Buisness Type: I
+  Expected close date: G
+  Expiration Date: H
+  InStore Cycle: F
+  Name: A
+  Opportunity Type: E
+  Probability: C
+  Projected Average CPS(Space): J
+  Projected Store Count: K
+  Stage: B
+INSTORE US:
+  Account ID: D
+  Buisness Type: I
+  Expected close date: G
+  Expiration Date: H
+  InStore Cycle: F
+  Name: A
+  Opportunity Type: E
+  Probability: C
+  Projected Average CPS(Space): J
+  Projected Store Count: K
+  Stage: B
+MERCHANDISING CA:
+  Account ID: D
+  Billed based on Actual Execution: K
+  Buisness Type: J
+  Contract Date: I
+  Execution End Date: F
+  Expected close date: H
+  ILoc Artwork Due Date: N
+  ILoc Material Due Date: O
+  ILoc Program Document Due Date: M
+  ILoc Signed LOC/Store List Due Date: L
+  Image Request Details: S
+  Image Subset List Count: T
+  Insert Date/ Start Date: G
+  Job Description/Comments: W
+  Material Due To: P
+  Name: A
+  Network Retailer List: U
+  Non Network Retailer List: V
+  Opportunity Type: E
+  POS Material Disposition: R
+  POS Materials Produced: Q
+  Probability: C
+  Stage: B
+MERCHANDISING US:
+  Account ID: D
+  Billed based on Actual Execution: K
+  Buisness Type: J
+  Contract Date: I
+  Execution End Date: F
+  Expected close date: H
+  ILoc Artwork Due Date: N
+  ILoc Material Due Date: O
+  ILoc Program Document Due Date: M
+  ILoc Signed LOC/Store List Due Date: L
+  Image Request Details: S
+  Image Subset List Count: T
+  Insert Date/ Start Date: G
+  Job Description/Comments: W
+  Material Due To: P
+  Name: A
+  Network Retailer List: U
+  Non Network Retailer List: V
+  Opportunity Type: E
+  POS Material Disposition: R
+  POS Materials Produced: Q
+  Probability: C
+  Stage: B
+SMARTSOURCE DIRECT CA:
+  Account ID: D
+  Billed based on Actual Execution: I
+  Buisness Type: H
+  Contract Date: G
+  Expected close date: F
+  ILoc Artwork Due Date: L
+  ILoc Creative Due Date: N
+  ILoc Format: J
+  ILoc Sample Due Date: M
+  ILoc Targeting: K
+  Insert Date/ Start Date: E
+  Name: A
+  Probability: C
+  Stage: B
+SMARTSOURCE DIRECT US:
+  Account ID: D
+  Billed based on Actual Execution: I
+  Buisness Type: H
+  Contract Date: G
+  Expected close date: F
+  Insert Date/ Start Date: E
+  Name: A
+  Probability: C
+  Stage: B
+SSMG CA:
+  Account ID: D
+  Billed based on Actual Execution: L
+  Buisness Type: I
+  Contract Date: G
+  Expected close date: F
+  Expiration Date: H
+  Insert Date/ Start Date: E
+  Name: A
+  Probability: C
+  Projected Average CPM: J
+  Projected Circulation (000): K
+  Stage: B
+SSMG US:
+  Account ID: D
+  Billed based on Actual Execution: L
+  Buisness Type: I
+  Contract Date: G
+  Expected close date: F
+  Expiration Date: H
+  Insert Date/ Start Date: E
+  Name: A
+  Probability: C
+  Projected Average CPM: J
+  Projected Circulation (000): K
+  Stage: B
